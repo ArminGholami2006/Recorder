@@ -1,1 +1,8 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Recorder/Recorder.csproj" Id="4d2b0063-8ba2-4e8b-885a-044ede403534" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RecorderTests/RecorderTests.csproj" Id="18cbe5bc-dc02-49f1-8334-b57cec5733f9" />
+  </Folder>
+</Solution>
